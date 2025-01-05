@@ -1,2 +1,2 @@
-# promt-flow-test
-It is about testing of Prompt Flow in Azure.
+# prompt-flow-test
+It is about testing Prompt Flow in Azure.
